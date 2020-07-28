@@ -1,5 +1,5 @@
-from alpine:3.12.0
-MAINTAINER Miguel Palhas <mpalhas@gmail.com>
+from alpine:edge
+MAINTAINER Shaleen Jain <shaleen@jain.sh>
 
 LABEL "com.github.actions.name"="Zola Deploy to Pages"
 LABEL "com.github.actions.description"="Build and deploy a Zola site to GitHub Pages"
